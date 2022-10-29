@@ -1,0 +1,12 @@
+.parent {
+    margin: 20px 0px;
+    text-align: center;
+  }
+
+  .box {
+    padding: 80px 30px; border: 1px solid black; display: inline-block;
+    background: center; text-align: center;
+  }
+  .box{font-family: fantasy;}
+
+  .contactme{font-size: 40px;}
